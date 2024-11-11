@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^api/obras-sociales$        /2doParcial2023/api/obras_sociales.php
+RewriteRule ^api/especialidades$        /2doParcial2023/api/especialidades.php
